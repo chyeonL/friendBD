@@ -8,11 +8,11 @@ var config = {
         "此刻万千词语浮现脑海但是很难选出最好的几个来祝福",
         "这是一个不需要说什么但是需要仪式感的节日",
         "٩(๛ ˘ ³˘)۶ 我是这么觉得的",
-        "不想谈论我们满是遗憾懵懂的过去",
+        "不想再谈论满是遗憾懵懂的过去",
         "也不想交流变幻莫测的未来会是什么样",
         "然后焦虑踌躇的现在要怎么做",
-        "all i wanna say is take good care of yourself",
-        "最重要是身体健康、身心愉快٩(๛ ˘ ³˘)۶",
+        "all i wanna say is taking good care of yourself",
+        "最重要是身体健康、幸福快乐٩(๛ ˘ ³˘)۶",
         "小宝要记得安好",
         "多吃点，努力让自己穿的下M码的裙子",
         "希望你听着这首歌就像吃了药一样身心治愈",
@@ -30,22 +30,22 @@ var config = {
      * Tip: 图片最好用正方形or接近正方形, 看起来效果更好
      */
     imgs: {
-        "时间来到了2022年7月24日早上12点30分": "./imgs/time.png",
+        "时间来到了2022年7月24日早上3点43分": "./imgs/time.png",
         "今天是My beloved friend赵玮芊的第21个生日": "./imgs/21.jpg",
         "此刻万千词语浮现脑海但是很难选出最好的几个来祝福": "./imgs/think.jpg",
         "这是一个不需要说什么但是需要仪式感的节日": "./imgs/noneed.jpg",
         "٩(๛ ˘ ³˘)۶ 我是这么觉得的": "./imgs/haha.png",
-        "不想谈论我们满是遗憾懵懂的过去": "./imgs/past.jpg",
+        "不想再谈论满是遗憾懵懂的过去": "./imgs/past.jpg",
         "也不想交流变幻莫测的未来会是什么样": "./imgs/future.jpg",
         "然后焦虑踌躇的现在要怎么做": "./imgs/now.jpg",
-        "all i wanna say is take good care of yourself": "./imgs/care.jpg",
-        "最重要是身体健康、身心愉快٩(๛ ˘ ³˘)۶": "./imgs/happy.jpg",
+        "all i wanna say is taking good care of yourself": "./imgs/care.jpg",
+        "最重要是身体健康、幸福快乐٩(๛ ˘ ³˘)۶": "./imgs/happy.jpg",
         "小宝要记得安好": "./imgs/chuo.gif",
         "多吃点，努力让自己穿的下M码的裙子": "./imgs/eat.png",
         "希望你听着这首歌就像吃了药一样身心治愈": "./imgs/medcine.png",
         '然后"当一个幸福的傻更更的你"': "./imgs/stupid.jpg",
         "未来一定要一起开蛋糕店啊！": "./imgs/cake.png",
-        "─=≡Σ((( つ•̀ 3 •́)つ宝 Happy Birthday!!!": "./imgs/21.jpg"
+        "─=≡Σ((( つ•̀ 3 •́)つ小宝 Happy Birthday!!!": "./imgs/21.jpg"
     },
     
     // 按钮文字描述, 以下是默认的按钮文字，英文的，您可以改成你喜欢的文字
@@ -54,13 +54,13 @@ var config = {
         play: "灯光到位╭☞( ￣ ▽￣)╭☞ 音乐起  ",
         bannar_coming: "٩(●´৺`●)૭ 上横幅 ٩(●´৺`●)و",
         balloons_flying: "d(ŐдŐ๑) 好像还少点东西 (๑ŐдŐ)b",
-        cake_fadein: "(´▽｀)ノ♪电子蛋糕应该没吃过",
+        cake_fadein: "(´▽｀)ノ♪电子蛋糕应该还没吃过吧",
         light_candle: "人生仅有一次的twenty-one ٩(๛ ˘ ³˘)۶ 舒服地许愿吧",
         wish_message: "*\(^o^)/*生日快乐～梦想成真*\(^o^)/*",
-        story: "超盐凉给未来股东的一些留言"
+        story: "超盐凉(๑•̀ㅂ•́)ﾉ➹♡给未来合伙人小宝的留言"
     },
 
     // 结束语
-    loveText: 'From lovely 超盐凉策划工作室',
+    loveText: 'From someone lovely aka. Mrs.Jeon',
 
 };
