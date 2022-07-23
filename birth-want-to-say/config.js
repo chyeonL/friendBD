@@ -10,7 +10,7 @@ var config = {
         "٩(๛ ˘ ³˘)۶ 我是这么觉得的",
         "不想再谈论满是遗憾懵懂的过去",
         "也不想交流变幻莫测的未来会是什么样",
-        "然后焦虑踌躇的现在要怎么做",
+        "还有焦虑踌躇的现在要怎么做",
         "all i wanna say is taking good care of yourself",
         "最重要是身体健康、幸福快乐٩(๛ ˘ ³˘)۶",
         "小宝要记得安好",
@@ -18,7 +18,7 @@ var config = {
         "希望你听着这首歌就像吃了药一样身心治愈",
         '然后"当一个幸福的傻更更的你"',
         "未来一定要一起开蛋糕店啊！",
-        "─=≡Σ((( つ•̀ 3 •́)つ宝 Happy Birthday!!!",
+        "─=≡Σ((( つ•̀ 3 •́)つ小宝 Happy Birthday!!!",
     ],
     /**
      * imgs 可以不填, 但是如果要填写的话必须遵循下面的格式
@@ -37,7 +37,7 @@ var config = {
         "٩(๛ ˘ ³˘)۶ 我是这么觉得的": "./imgs/haha.png",
         "不想再谈论满是遗憾懵懂的过去": "./imgs/past.jpg",
         "也不想交流变幻莫测的未来会是什么样": "./imgs/future.jpg",
-        "然后焦虑踌躇的现在要怎么做": "./imgs/now.jpg",
+        "还有焦虑踌躇的现在要怎么做": "./imgs/now.jpg",
         "all i wanna say is taking good care of yourself": "./imgs/care.jpg",
         "最重要是身体健康、幸福快乐٩(๛ ˘ ³˘)۶": "./imgs/happy.jpg",
         "小宝要记得安好": "./imgs/chuo.gif",
